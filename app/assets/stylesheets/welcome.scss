@@ -17,18 +17,37 @@ h1 {
 }
 
 #test1 {
-    color: red;
+    color: #EB0104;
     font: 32px Helvetica, Arial, sans-serif;
 }
 
 #test2 {
-    color: red;
+    color: #EB0104;
     font: 32px Helvetica, Arial, sans-serif;
 }
 
 #test3 {
-    color: green;
+    color: #1FCC01;
     font: 18px Helvetica, Arial, sans-serif;
+    padding-top: 25px;
+}
+
+#test4 a {
+    font: Helvetica, Arial, sans-serif;
+    font-size: 150%;
+    color: #00F80D;
+}
+
+#test5 a {
+    font: Helvetica, Arial, sans-serif;
+    font-size: 150%;
+    color: #F89A00;
+}
+
+#test6 a {
+    font: Helvetica, Arial, sans-serif;
+    font-size: 150%;
+    color: #F89A00;
 }
 
 p {
