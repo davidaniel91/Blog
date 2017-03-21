@@ -11,8 +11,10 @@ input[type=text] {
 
 textarea {
     width: 25%;
+    height: 300px;
     padding: 12 px 12 px;
     border: 2px solid #ccc;
     box-sizing: border-box;
     background-color: #f8f8f8;
+    resize: none;
 }
